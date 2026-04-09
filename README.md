@@ -7,7 +7,7 @@ we, the creators, are fond users of aniList, and MAL. These sites allow you to t
 # BASE GOALS ON DEPLOYMENT 
 1. comprehensive gd list
   1. filters
-  2. ratings
+  2. ratings  
      2a. gameplay
      2b. deco
      2c. enjoyment
@@ -24,6 +24,8 @@ we, the creators, are fond users of aniList, and MAL. These sites allow you to t
 1. disvoery page and stuff.
 # FAQ 
 What is a tag?
+
+
 a tag is a mention of something about a level. For example, if the level is ship heavy then a user may add a "Ship Heavy" tag with a percent! how confident are they ? or how much of the level is?
 <sub> note, may add genres for <gamemod> heavy levels. </sub>
 Where do you get your data? 
