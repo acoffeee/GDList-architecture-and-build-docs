@@ -22,6 +22,8 @@ we, the creators, are fond users of aniList, and MAL. These sites allow you to t
   5. 
 # ROADMAP
 1. disvoery page and stuff.
+2. plugins - auto tracking and syncronization
+3. import system from save file
 # FAQ 
 What is a tag?
 
