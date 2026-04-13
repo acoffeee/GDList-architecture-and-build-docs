@@ -12,7 +12,7 @@ we, the creators, are fond users of aniList, and MAL. These sites allow you to t
      2b. deco
      2c. enjoyment
   3. summary of your list, maybe personalized stat pages
-  4. count of levels youve completed ( sep for plat/legacy
+  4. count of levels youve completed ( sep for plat/legacy )
   5. average for ratings
 2. comprensive metadata
   1. tags
@@ -27,10 +27,8 @@ we, the creators, are fond users of aniList, and MAL. These sites allow you to t
 4. progress tracking for levels ( maybe sync with death mod or own mod to sync???) ( maybe selective ( dont sync every random tab level XD)
 5. 
 # FAQ 
-What is a tag?
-
-
+What is a tag?  
 a tag is a mention of something about a level. For example, if the level is ship heavy then a user may add a "Ship Heavy" tag with a percent! how confident are they ? or how much of the level is?
 <sub> note, may add genres for <gamemod> heavy levels. </sub>
-Where do you get your data? 
+Where do you get your data?   
 idk.
