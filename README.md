@@ -24,6 +24,8 @@ we, the creators, are fond users of aniList, and MAL. These sites allow you to t
 1. disvoery page and stuff.
 2. plugins - auto tracking and syncronization
 3. import system from save file
+4. progress tracking for levels ( maybe sync with death mod or own mod to sync???) ( maybe selective ( dont sync every random tab level XD)
+5. 
 # FAQ 
 What is a tag?
 
